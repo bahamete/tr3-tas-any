@@ -1,0 +1,125 @@
+
+JUNGLE (0:36)
+No comment
+
+
+TEMPLE RUINS (11:13)
+Improved 31 seconds on my old time.
+
+At the start, I perform a flying corner bug. This saves a couple of seconds.
+
+Lag avoidance in outdoors areas by look manipulation. This will be done
+heavily throughout the run.
+
+Because I used an extra flare in Jungle, I can't Perpetual Flare Cancel
+(PFC) or Flare Cancel at all until I pick up more flares, despite the
+fact it would save more time to PFC in this level than to use the flare
+in the previous level. This is a speed/entertainment tradeoff.
+
+Minor improvements occur such as rolling off ledges, taking corners a
+bit tighter, grab cancels and such. These should be throughout the run.
+A crack bug occurs at the moving block puzzle. This saves about 5
+seconds. It would save a lot more but the setup is not very gracious.
+Much more optimized movement in water, including manipulating position
+for picking up items/throwing switches to avoid the game's "auto-move",
+which is slow.
+
+The Shiva at the 2 keyholes is a bitch. I have to swerve so that he will
+attack the ground, delaying his approach on Lara as she enters one key.
+Otherwise, he would kill me.
+
+In the water/mud room, 2 decent improvements occur. First, we can jump
+to the invisible platform (even without a stumble!) without the need for
+the slope, though it is incredibly difficult. We colloquially call this
+the "Area 51 jump" as MMAN pointed it out to me while I was TASing Area
+51. The jump brings Lara to the peak of her jump height at the right
+moment. It is so unreliable. The second improvement is we do a
+reverse-shelf bug onto the switch platform, then dive into the water.
+It's about 2 seconds faster.
+
+Better manipulation of Shivas meaning I don't have to heal
+
+The 2 shivas battle was impossible. I stop shooting occasionally (you
+can see/hear when) so that the Shiva does not shield himself. First I
+get Shiva #1 to 1 health then attack Shiva #2. They land on the same
+position and we can pick up both Scimitars. Very difficult without tools.
+
+
+THE RIVER GANGES (1:52)
+Makes use of the new quad-wall bug
+http://tombrunner.net/Forum/viewtopic.php?f=14&t=67&p=2798#p2798
+
+Minor optimizations, such as look manipulation and better use of the
+quad bike.
+
+
+CAVES OF KALIYA (1:28)
+Despite getting to Tony 2 seconds faster, 6 seconds are then lost from
+only using one grenade on Tony plus 40 pistol shots rather than two
+grenades and 20 pistol shots. The rationale is that the extra grenades
+will save a lot of time in Temple of Puna.
+
+To get to Tony faster, I made better use of extended sprint and the
+"instaflare" trick.
+
+NEVADA DESERT (1:42)
+Makes use of the new detonator skip, so thanks a lot to apel for that.
+I found a consistent way to perform this bug; I posted about it at
+http://tombrunner.net/Forum/viewtopic.php?f=10&t=242
+
+More optimized movement in the water section.
+
+Improvement at the beginning of a shelf bug followed by backwards-shelf
+bug to get on top of the 'mountain' rather than the traditional flying
+corner bug, which gets us further away.
+
+Minor improvement at the end of sprint-roll followed by flare cancel
+rather than landing on the slope, which would make our Z velocity 0.
+
+todo
+Explain save bug. (If I can!)
+
+
+MADUBU GORGE (3:37)
+Saved 30 seconds via new way to park the kayak. It's a lot more
+dangerous and impractical for RTS.
+
+Using the zipwire is about 2 seconds slower than jumping across the
+platforms. I guess it is due to the slow animation of it.
+
+I use a trick to avoid a pullup at the end via what is known as
+"Venice Boat Trick". Lara is wedged between the kayak and the ledge
+and appears on top of it.
+
+
+TEMPLE OF PUNA (1:38)
+If Puna is shot too early, he will spawn a lizard after 3 grenade shots.
+I had to delay the second shot to get him to cooperate.
+
+I found a new trick involving Puna. Before you can shoot him, he must
+turn to face you - so, if you go to the edge of the platform, he turns
+90 degrees rather than 180, thus shortening his animation.
+
+I don't need to pick up the Desert Eagle. Instead, I use the Grenade
+Launcher plus spare grenades I picked up in Caves of Kaliya and Madubu
+Gorge. It would be faster to pick up greandes from Nevada Desert instead
+of Caves of Kaliya, but in the save bug our inventory is loaded from
+Caves of Kaliya, so this is not an option.
+
+
+HIGH SECURITY COMPOUND () 
+Guard manipulation at the beginning was not easy, but after several
+attempts I managed to get a decent cycle without having to wait any time.
+
+In the room before the kitchen (the one which you flood), it is possible
+to get to the kitchen without flooding it at all. However, it takes way
+too long for it to be feasible - the method is embedding in the corner
+and doing flicker motion. In addition, we can skip the trigger that
+shuts the door to the previous room but it doesn't prove useful, either.
+
+In the crawlspace, I use a new trick which makes Lara zip fast through
+the ceiling. The speed of the trick is about the same as peak of a 
+sprint roll. The bug is detailed here:
+http://tombrunner.net/Forum/viewtopic.php?p=3189#p3189
+
+
