@@ -1,3 +1,56 @@
+Movement Speeds: 
+Sprint-roll     100
+Sprint          82
+Running-jump    75
+Standing jump   50
+Rolling         50
+Sliding         50
+Flipping        50
+Running         47
+Step backwards  42
+S-Stumble*      30
+Wading (2c)     20
+Crawling        16
+Walking         15
+Wading (Sand)   10
+Side-step       9**
+
+* S-Stumble, "slope stumble", the stumble Lara does at the bottom of a
+slope when transitioning to flat land.
+** Side-step will move you 9 speed in BOTH x and z directions. This move
+can be used for precise lining up of bugs, such as dive bug. In the
+direction Lara is facing, you will only move at a speed of 9 for 1F.
+
+Weapon damage:
+Rocket Launcher     60
+Grenade Launcher    40
+Desert Eagle        21
+Shotgun             18, but depending on range
+Harpoon Gun         6
+MP5                 4
+Pistols             1 (Per gun)
+Uzis                1 (Per gun)
+
+Weapon fire rate:
+                    Ticks   Fire/s     DPS
+Rocket Launcher     60      0.5        30.0
+Grenade Launcher    53      0.5660     22.6415
+Desert Eagle        17      1.7647     37.0587
+Shotgun             33      0.9091     16.3636
+Harpoon Gun         *
+MP5                 4       7.5        30.0
+Pistols             10      3.0        6.0
+Uzis                4       7.5        15.0
+
+* if (ammo mod 4) is 0, reload harpoon.
+  Each shot has 9 ticks between it, but the reload animation takes 76!
+  For 4 shots or below:
+                    9       3.33       20
+  On average > 4:
+                    28      1.0714     6.4286
+  
+
+Level comments:
 
 JUNGLE (0:36)
 No comment
