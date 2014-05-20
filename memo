@@ -1,3 +1,35 @@
+-- Interesting (TAS-only) Tricks --
+All of these tricks are possible real time, but are usually too
+difficult to pull off.
+
+Rapid firing:
+After firing pistols, release for one frame and hold for one frame
+perpetually. Lara will fire every two frames. Only used for
+entertainment, as Lara cannot fire this way at an enemy. 
+
+Sightseeing:
+Looking away from rendered objects, particularly large outdoor areas,
+stops the game from rendering them. This puts less strain on the game
+and we can reduce many lag frames. This sometimes takes away from
+entertainment and is not used. 
+
+Slope creep:
+Hit the very edge of a slope with Lara perpendicular to the ledge and
+hold roll. Lara will "bounce" off the edge. Angle back and hit the slope
+in the same way again. Lara can move perpetually along the edge of a
+slope in this way. Used in The River Ganges.
+
+Dive bug:
+Used in some RTS runs but the runner will usually always save first.
+Dive and hit a wall where it meets the floor. Lara will survive with no
+damage. Incredibly precise. 
+
+Instaflare:
+Light a flare on the first frame you instantiate a forward crawl. Lara
+will light a flare instantly (cancelling the animation) and no flare
+is actually taken out of the inventory. Requires at least one flare to
+actually perform, though.
+
 -- Movement Speeds -- 
 Sprint-roll     100
 Sprint          82
@@ -58,7 +90,8 @@ No comment
 TEMPLE RUINS (11:13)
 Improved 31 seconds on my old time.
 
-At the start, I perform a flying corner bug. This saves a couple of seconds.
+At the start, I perform a flying corner bug. This saves a couple of
+seconds.
 
 Lag avoidance in outdoors areas by look manipulation. This will be done
 heavily throughout the run.
@@ -130,3 +163,26 @@ waterfall area, but I think what I did was satisfactory. Although, maybe
 we can avoid using a flare cancel (which does still slow us).
 
 Stairs bug at the end - standard stuff.
+
+
+CAVES OF KALIYA (1:23)
+Ceiling embed bug is used a twice. We embed into a corner within a
+crawlspace and we can zip along the ceiling at a speed of 100 (the same
+speed as a sprint-roll). This saves 2-3 seconds at the first usage, and
+only 1.5 seconds at the second. The reason it saves so little time the
+second time is because we have to turn around to perform it, which is
+very slow.
+
+Few uses of instaflare.
+
+Take corners as tightly as possible, but be cautious of the way sprint
+works. We can bounce off of walls to "mirror" our angle, meaning we can
+sprint around corners otherwise impossible.
+
+Dropping into the snake pit is very difficult. The snakes love to bite
+when you hit the ground.
+
+Tony has a health value of 100. We hit him once with the Grenade
+Launcher (which does 40 damage), leaving him with 60. We then hit him 30
+times with the pistols, dealing the remaining 60 damage (each gun does
+1 damage and we have 2).
